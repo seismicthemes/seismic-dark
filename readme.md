@@ -18,9 +18,26 @@ feel free to contact us.
 ![Seismic Dark
 screenshot](https://github.com/seismicthemes/seismic-dark/blob/master/screenshots/seismicdark-1024x632.jpg?raw=true)
 
-## Setup
+## How to install:
 
-Setup information coming soon.
+### Install by FTP:
+
+ * [Download](https://github.com/seismicthemes/dark-tt/archive/master.zip) the theme to y$
+ * Unzip the folder
+ * Start your favorite FTP client, connect to your web server
+ * Navigate to the /wp-content/themes directory
+ * Upload files
+ * Login into WordPress admin area, navigate to the appearance tab
+ * Find and activate Twenty Ten Horizontal Subnav theme
+
+### Install by WordPress Admin screen:
+
+ * [Download](https://github.com/seismicthemes/dark-tt/archive/master.zip) the theme to y$
+ * Login into WordPress admin area, navigate to the appearance tab
+ * Navigate to install themes tab, you should now see a sub tab Upload theme click on thi$
+ * You should see an upload box click browse, find where you downloaded twentyten-horizon$
+ * Click Install Now
+ * Activate Theme
 
 ## Pull requests
 
