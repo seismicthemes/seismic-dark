@@ -16,7 +16,7 @@ theme makes things very easy. If you would like help setting up the theme
 feel free to contact us.
 
 ![Seismic Dark
-screenshot](https://github.com/seismicthemes/seismic-dark/blob/master/screenshots/seismicdark-1024x632.jpg?raw=true)
+screenshot](https://github.com/seismicthemes/seismic-dark/blob/master/screenshot.png?raw=true)
 
 ## How to install:
 

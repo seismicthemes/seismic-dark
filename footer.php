@@ -23,7 +23,7 @@
 			</div><!-- #site-info -->
 
 			<div id="theme-credit">
-				<a href="http://www.seismicthemes.com" title="Free WordPress Themes">WordPress Themes</a> by <a href="http://www.seismicthemes.com" title="Premium WordPress Themes">Seismic Themes</a>
+				<a href="https://www.seismicthemes.com" title="Free WordPress Themes">WordPress Themes</a> by <a href="https://www.seismicthemes.com" title="Premium WordPress Themes">Seismic Themes</a>
 			</div><!-- #theme-credit -->
 
 		</div><!-- #colophon -->

@@ -16,8 +16,8 @@
 
 					<div class="entry-content">
 						<?php the_content(); ?>
-						<?php wp_link_pages( array( 'before' => '<div class="page-link">' . __( 'Pages:', 'seismicdark' ), 'after' => '</div>' ) ); ?>
-						<?php edit_post_link( __( 'Edit', 'seismicdark' ), '<span class="edit-link">', '</span>' ); ?>
+						<?php wp_link_pages( array( 'before' => '<div class="page-link">' . __( 'Pages:', 'seismic-dark' ), 'after' => '</div>' ) ); ?>
+						<?php edit_post_link( __( 'Edit', 'seismic-dark' ), '<span class="edit-link">', '</span>' ); ?>
 					</div><!-- .entry-content -->
 				</div><!-- #post-## -->
 
